@@ -45,10 +45,12 @@ Right-click Edit inbound rules
 
 <img width="1024" height="314" alt="image" src="https://github.com/user-attachments/assets/d0e519d2-efe9-4e33-a602-2d48665f8b9f" />
 
-Remove the HTTP rule by clicking delete cirled in red below 
+Remove the HTTP rule by clicking Delete, circled in red below, then hit Save rules
 
 <img width="1024" height="286" alt="image" src="https://github.com/user-attachments/assets/f2da8fd4-feb3-4cbc-974a-a653cafa8912" />
 
 <img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/69281f49-befe-4e20-9860-6d23779e5f93" />
 
-Now if you refresh the page 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f338ddd6-c77a-4a99-ba80-861b17780ae9" />
+
+Now, if you refresh the page 
