@@ -7,7 +7,7 @@ Log into your AWS account and navigate to the EC2 Dashboard
 
 Find the "Security Groups" option in the sidebar under "Network & Security
 
-Here you will see that we have 2 security groups: a default one and the other created previously for my EC2 instance "My First EC2" named "launch-wizard-1"
+Notice that there are two security groups listed here: the default group and launch-wizard-1 (created earlier for your 'My First EC2' instance)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3802b406-eb3d-48c2-adaf-b83ce52947d5" />
 
@@ -25,7 +25,7 @@ Next, we can take a look at the Inbound rules by selecting the tab to the right 
 
 An inbound rule (or ingress rule) for an AWS security group defines what incoming traffic is allowed to reach the resources (such as EC2 instances) associated with that security group
 
-I currently have two inbound rules: 
+ The security group launch-wizard-1 currently has two inbound rules: 
 
 The first type is HTTP, which allows allows unencrypted web traffic from anywhere on the public internet to reach port 80 on your instance. This is standard if you are hosting a public-facing website
 
