@@ -21,3 +21,5 @@ The security group ID is located in the details section, similar to an EC2 insta
 
 Next, we can take a look at the Inbound rules by selecting the tab next to Details
 
+<img width="1920" height="929" alt="image" src="https://github.com/user-attachments/assets/3866b80d-646b-4b55-ae4e-258ff2c3c7a0" />
+
