@@ -18,3 +18,6 @@ We can review launch-wizard-1 by right-clicking it and exposing its details and 
 The security group ID is located in the details section, similar to an EC2 instance ID
 
 <img width="1801" height="873" alt="image" src="https://github.com/user-attachments/assets/86637a65-cc10-4549-837a-0f0763199c65" />
+
+Next, we can take a look at the Inbound rules by selecting the tab next to Details
+
