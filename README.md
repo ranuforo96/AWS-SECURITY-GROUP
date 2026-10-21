@@ -19,7 +19,13 @@ The security group ID is located in the details section, similar to an EC2 insta
 
 <img width="1801" height="873" alt="image" src="https://github.com/user-attachments/assets/86637a65-cc10-4549-837a-0f0763199c65" />
 
-Next, we can take a look at the Inbound rules by selecting the tab next to Details
+Next, we can take a look at the Inbound rules by selecting the tab to the right of Details
 
 <img width="1920" height="929" alt="image" src="https://github.com/user-attachments/assets/3866b80d-646b-4b55-ae4e-258ff2c3c7a0" />
+
+An inbound rule (or ingress rule) for an AWS security group defines what incoming traffic is allowed to reach the resources (such as EC2 instances) associated with that security group
+
+I currently have two inbound rules: the first type is SSH, which allows port 22 into our instance, the second type is HTTP, which allows port 80 into the instance
+
+<img width="1521" height="229" alt="image" src="https://github.com/user-attachments/assets/ebc1dcf8-2179-4787-a6c0-845b3c852cc5" />
 
