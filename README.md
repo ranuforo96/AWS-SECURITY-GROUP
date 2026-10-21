@@ -25,7 +25,11 @@ Next, we can take a look at the Inbound rules by selecting the tab to the right 
 
 An inbound rule (or ingress rule) for an AWS security group defines what incoming traffic is allowed to reach the resources (such as EC2 instances) associated with that security group
 
-I currently have two inbound rules: the first type is SSH, which allows port 22 into our instance, the second type is HTTP, which allows port 80 into the instance
+I currently have two inbound rules: 
+
+The first type is SSH, which allows secure shell command-line access from anywhere on the public internet (0.0.0.0/0) to your instance
+
+The second type is HTTP, which allows allows unencrypted web traffic from anywhere on the public internet to reach port 80 on your instance. This is standard if you are hosting a public-facing website
 
 <img width="1521" height="229" alt="image" src="https://github.com/user-attachments/assets/ebc1dcf8-2179-4787-a6c0-845b3c852cc5" />
 
