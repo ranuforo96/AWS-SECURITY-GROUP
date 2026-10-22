@@ -59,3 +59,17 @@ Now, if you refresh the page on the web server, you will get an infinite loading
 
 You can usually expect similar errors to stem from your EC2 security group configuration
 
+You can resolve this issue by reinstating the rule and applying the changes. Refer to the screenshots below for a demonstration:
+
+Click on the launch-wizard-1 security group:
+
+<img width="1920" height="421" alt="image" src="https://github.com/user-attachments/assets/5c0ae6b9-2c4b-4988-bcb0-c08e560ab0de" />
+
+Select Edit inbound rules:
+
+<img width="1920" height="649" alt="image" src="https://github.com/user-attachments/assets/a95f5a38-ff3c-4036-a6a7-19cd2a96f4ef" />
+
+Click on Add rule under the Security group rule ID:
+
+<img width="1920" height="670" alt="image" src="https://github.com/user-attachments/assets/0dae65a1-eacb-4125-bfe3-c09b1a2527a2" />
+
