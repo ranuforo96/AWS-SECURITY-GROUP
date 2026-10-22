@@ -57,3 +57,5 @@ Now, if you refresh the page on the web server, you will get an infinite loading
 
 <img width="905" height="1024" alt="image" src="https://github.com/user-attachments/assets/709549a8-fe5d-4772-93c5-d96fbcc6fee7" />
 
+You can usually expect similar errors to stem from your EC2 security group configuration
+
