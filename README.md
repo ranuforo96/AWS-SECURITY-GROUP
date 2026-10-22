@@ -73,7 +73,7 @@ Click on Add rule under the Security group rule ID:
 
 <img width="1920" height="670" alt="image" src="https://github.com/user-attachments/assets/dc484408-80ac-4578-9cee-b8406504ea1c" />
 
-For the type, I will select HTTP. This will automatically set the port range to 80. 
+For the type, I will select HTTP. This will automatically set the port range to 80
 
 <img width="1888" height="403" alt="image" src="https://github.com/user-attachments/assets/f4de31f0-1503-4656-b363-015193075ee0" />
 
