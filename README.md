@@ -53,4 +53,7 @@ Remove the HTTP rule by clicking Delete, circled in red below, then hit Save rul
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f338ddd6-c77a-4a99-ba80-861b17780ae9" />
 
-Now, if you refresh the page 
+Now, if you refresh the page on the web server, you will get an infinite loading screen
+
+<img width="905" height="1024" alt="image" src="https://github.com/user-attachments/assets/709549a8-fe5d-4772-93c5-d96fbcc6fee7" />
+
