@@ -80,3 +80,9 @@ For the type, I will select HTTP. This will automatically set the port range to 
 Finally, designate the Source type as Anywhere-IPv4, which assigns the 0.0.0.0/0 CIDR block. This rule permits inbound traffic from all public IPv4 addresses across the internet. Select Save rules to confirm the update
 
 <img width="1901" height="514" alt="image" src="https://github.com/user-attachments/assets/6f9d98c9-0aeb-4065-9037-fe15411b1495" />
+
+The rule is now effective, and a quick refresh of the page will now provide access to the web server
+
+<img width="1920" height="452" alt="image" src="https://github.com/user-attachments/assets/f47f3e78-cf8a-494b-9899-e10fd2c5c95c" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5387bf86-54f3-4979-8a59-7af584eb4709" />
