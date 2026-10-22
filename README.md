@@ -71,5 +71,6 @@ Select Edit inbound rules:
 
 Click on Add rule under the Security group rule ID:
 
-<img width="1920" height="670" alt="image" src="https://github.com/user-attachments/assets/0dae65a1-eacb-4125-bfe3-c09b1a2527a2" />
+<img width="1920" height="670" alt="image" src="https://github.com/user-attachments/assets/dc484408-80ac-4578-9cee-b8406504ea1c" />
+
 
