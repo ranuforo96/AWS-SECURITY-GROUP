@@ -73,4 +73,11 @@ Click on Add rule under the Security group rule ID:
 
 <img width="1920" height="670" alt="image" src="https://github.com/user-attachments/assets/dc484408-80ac-4578-9cee-b8406504ea1c" />
 
+For the type, I will select HTTP. This will automatically set the port range to 80. 
+
+<img width="1888" height="403" alt="image" src="https://github.com/user-attachments/assets/f4de31f0-1503-4656-b363-015193075ee0" />
+
+Lastly, we can set the Source type to "Anywhere-IPv4", which will also automatically set the Source to 0.0.0.0/0, which refers to all IPv4 addresses, meaning any device from anywhere on the internet can access your instance through that port
+
+<img width="1882" height="402" alt="image" src="https://github.com/user-attachments/assets/ae22522c-8653-413b-a1fe-4cd8fd83865d" />
 
