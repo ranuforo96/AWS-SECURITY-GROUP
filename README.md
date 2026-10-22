@@ -77,7 +77,6 @@ For the type, I will select HTTP. This will automatically set the port range to 
 
 <img width="1888" height="403" alt="image" src="https://github.com/user-attachments/assets/f4de31f0-1503-4656-b363-015193075ee0" />
 
-Lastly, we can set the Source type to "Anywhere-IPv4", which will also automatically set the Source to 0.0.0.0/0, which refers to all IPv4 addresses, meaning any device from anywhere on the internet can access your instance through that port
+Finally, designate the Source type as Anywhere-IPv4, which assigns the 0.0.0.0/0 CIDR block. This rule permits inbound traffic from all public IPv4 addresses across the internet. Select Save rules to confirm the update
 
-<img width="1882" height="402" alt="image" src="https://github.com/user-attachments/assets/ae22522c-8653-413b-a1fe-4cd8fd83865d" />
-
+<img width="1901" height="514" alt="image" src="https://github.com/user-attachments/assets/6f9d98c9-0aeb-4065-9037-fe15411b1495" />
