@@ -99,4 +99,4 @@ launch-wizard-1 is set up to allow outbound traffic to any IPv4 destination, giv
 
 <img width="1623" height="497" alt="image" src="https://github.com/user-attachments/assets/7346dc22-4ef1-4dd1-a734-ba7a61ccc162" />
 
-*NOTE* You can attach more than one security group to a single EC2 instance, and all of their rules will stack together. On the flip side, you can also link multiple EC2 instances to the same security group
+"NOTE" You can attach more than one security group to a single EC2 instance, and all of their rules will stack together. On the flip side, you can also link multiple EC2 instances to the same security group
