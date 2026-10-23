@@ -95,7 +95,7 @@ The rule is now effective, and a quick refresh of the page will now provide acce
 
 Having addressed inbound rule configurations, the following section examines outbound rules using launch-wizard-1 for demonstration purposes
 
-launch-wizard-1 is set up to allow outbound traffic to any IPv4 destination, giving 'My first EC2' full access to the internet
+launch-wizard-1 is set up to allow outbound traffic to any IPv4 destination, giving "My First EC2" full access to the internet
 
 <img width="1623" height="497" alt="image" src="https://github.com/user-attachments/assets/7346dc22-4ef1-4dd1-a734-ba7a61ccc162" />
 
