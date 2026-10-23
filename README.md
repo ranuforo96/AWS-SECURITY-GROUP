@@ -86,3 +86,9 @@ The rule is now effective, and a quick refresh of the page will now provide acce
 <img width="1920" height="452" alt="image" src="https://github.com/user-attachments/assets/f47f3e78-cf8a-494b-9899-e10fd2c5c95c" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5387bf86-54f3-4979-8a59-7af584eb4709" />
+
+"NOTE" Additional inbound rules may be configured as needed (e.g., HTTPS traffic on TCP port 443). The source traffic can be filtered using custom CIDR blocks, predefined security groups, or your individual IP address
+
+<img width="1793" height="212" alt="image" src="https://github.com/user-attachments/assets/6096c15d-e723-4681-8fa7-baa55b3dbf47" />
+
+<img width="1834" height="264" alt="image" src="https://github.com/user-attachments/assets/e4c1b137-1945-4bc6-b1c6-43cf725f7537" />
