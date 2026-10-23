@@ -92,3 +92,11 @@ The rule is now effective, and a quick refresh of the page will now provide acce
 <img width="1793" height="212" alt="image" src="https://github.com/user-attachments/assets/6096c15d-e723-4681-8fa7-baa55b3dbf47" />
 
 <img width="1834" height="264" alt="image" src="https://github.com/user-attachments/assets/e4c1b137-1945-4bc6-b1c6-43cf725f7537" />
+
+Having addressed inbound rule configurations, the following section examines outbound rules using launch-wizard-1 for demonstration purposes
+
+launch-wizard-1 is set up to allow outbound traffic to any IPv4 destination, giving 'My first EC2' full access to the internet
+
+<img width="1623" height="497" alt="image" src="https://github.com/user-attachments/assets/7346dc22-4ef1-4dd1-a734-ba7a61ccc162" />
+
+*NOTE* You can attach more than one security group to a single EC2 instance, and all of their rules will stack together. On the flip side, you can also link multiple EC2 instances to the same security group
